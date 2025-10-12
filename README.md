@@ -3,6 +3,16 @@
 
 ![Academic Pages template example](images/themes/homepage-light.png "Academic Pages template example")
 
+# Quick-start for Diego Polanco
+
+To get this customized site online with the least effort:
+
+1. Create (or sign in to) the GitHub account that will host the site.
+2. Create a new public repository named `dpolanco.github.io` using this project as the contents (clone locally and push, or upload via the GitHub web UI).
+3. On GitHub, open the repository **Settings → Pages** section and ensure GitHub Pages is enabled for the `main` branch.
+4. Wait a couple of minutes for the first build to complete, then visit `https://dpolanco.github.io` to confirm the site is live.
+5. When you are ready to expand the content, edit the Markdown files in `_pages/` (for example `about.md`, `cv.md`, etc.) and commit + push to redeploy automatically.
+
 # Getting Started
 
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
