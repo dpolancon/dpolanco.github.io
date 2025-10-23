@@ -36,6 +36,15 @@ Layouts and reusable partials live in `_layouts/` and `_includes/`, respectively
 
 For publication and talk pages, the helper scripts in `markdown_generator/` can transform TSV source files into properly formatted Markdown entries that belong in `_publications/` or `_talks/`.
 
+## Publishing to GitHub Pages
+
+1. **Create your Pages repository** – click "Use this template" and name the new repository `<your-github-username>.github.io` so GitHub Pages serves it automatically from the default branch.
+2. **Push your site content** – commit your updates to Markdown, data files, and configuration locally, then push to `main`. No manual build step is required; GitHub Actions handles the Jekyll build.
+3. **Confirm the site is enabled** – open the repository **Settings → Pages** screen to ensure the site is published from the GitHub Actions workflow.
+4. **Monitor the deployment workflow** – after each push, wait for the `pages-build-deployment` workflow to finish. When it completes, your changes will be live at `https://<your-github-username>.github.io/`.
+
+Once the initial deployment succeeds, continue editing locally, push incremental commits, and GitHub Pages will rebuild and publish the updated site on each run of the deployment workflow.
+
 ## Running locally
 
 When you are initially working on your website, it is very useful to be able to preview the changes locally before pushing them to GitHub. To work locally you will need to:
