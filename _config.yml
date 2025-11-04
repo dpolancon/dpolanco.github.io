@@ -25,7 +25,6 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Bio"
-  pronouns         : # example: "she/her"  
   bio              : "I am a political economist and doctoral candidate at UMass Amherst, researching how capitalism develops, adapts, and represses—unevenly, historically, and relationally. My work bridges macroeconomics, historical political economy, and the political economy of law, with a focus on Latin America. I build datasets, formal models, and digital archives—not just to understand history, but to chase the present."
   location         : "Santiago, Chile"
   employer         : "Umass, Amherst"

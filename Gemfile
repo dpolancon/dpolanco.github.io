@@ -17,3 +17,5 @@ gem 'tzinfo-data', platforms: %i[mingw mswin x64_mingw jruby]
 
 # Use the native Windows directory watcher to avoid fallback polling.
 gem 'wdm', '>= 0.1.0', platforms: %i[mingw mswin x64_mingw jruby]
+
+gem "minima", "~> 2.5", :group => :jekyll_plugins
