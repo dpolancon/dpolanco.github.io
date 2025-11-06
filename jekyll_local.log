@@ -1,0 +1,1134 @@
+Configuration file: C:/web_site/dpolanco.github.io/_config.yml
+To use retry middleware with Faraday v2.0+, install `faraday-retry` gem
+            Source: C:/web_site/dpolanco.github.io
+       Destination: C:/web_site/dpolanco.github.io/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+       Jekyll Feed: Generating feed for posts
+                    done in 7.712 seconds.
+ Auto-regeneration: enabled for 'C:/web_site/dpolanco.github.io'
+LiveReload address: http://localhost:35729
+    Server address: http://localhost:4000/
+  Server running... press ctrl-c to stop.
+      Regenerating: 1 file(s) changed at 2025-11-05 16:59:25
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+[2025-11-05 16:59:29] ERROR Errno::ECONNRESET: An existing connection was forcibly closed by the remote host. @ io_fillbuf - fd:9 
+	C:/Ruby31-x64/lib/ruby/gems/3.1.0/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in `eof?'
+	C:/Ruby31-x64/lib/ruby/gems/3.1.0/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in `run'
+	C:/Ruby31-x64/lib/ruby/gems/3.1.0/gems/webrick-1.9.1/lib/webrick/server.rb:310:in `block in start_thread'
+                    ...done in 6.3363616 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 16:59:31
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 6.2183921 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 16:59:37
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 6.3126804 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 16:59:44
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 6.0295791 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 16:59:50
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 6.4373409 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 16:59:57
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 7.3437228 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:00:04
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 6.0851524 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:00:10
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 5.8086265 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:00:16
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 6.3039954 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:00:23
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 5.8822179 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:00:29
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 6.2862022 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:00:35
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 6.3446849 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:00:41
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 6.2347463 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:00:48
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 6.1964095 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:00:54
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 5.789391 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:01:00
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 6.2046054 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:01:06
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 6.4064323 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:01:13
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 5.9787084 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:01:19
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 6.2815189 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:01:25
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 5.9988082 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:01:31
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 5.725223 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:01:37
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 6.3316558 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:01:44
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 6.4048268 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:01:50
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 5.8517156 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:01:56
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 5.9737133 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:02:02
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 6.4110016 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:02:09
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 6.2394163 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:02:15
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 5.6682039 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:02:21
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 5.784231 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:02:27
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 6.1474232 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:02:33
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 6.1620757 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:02:39
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 6.2014836 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:02:46
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 6.3123843 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:02:52
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 6.0975185 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:02:58
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 5.9156686 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:03:04
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 6.0961259 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:03:11
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 6.3865743 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:03:17
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 5.5626548 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:03:23
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 6.0005078 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:03:29
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 6.9751439 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:03:36
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 7.1162412 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:03:43
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 6.6067167 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:03:50
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 6.5779144 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:03:57
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 6.12082 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:04:03
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 5.6654149 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:04:09
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 6.1692219 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:04:15
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 6.3820234 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:04:21
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 6.1132721 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:04:28
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 5.9341463 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:04:34
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 5.9897612 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:04:40
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 5.7861932 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:04:46
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 5.9411469 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:04:52
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 5.7309732 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:04:58
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 5.9870819 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:05:04
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 6.131679 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:05:10
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 6.0617183 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:05:16
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 6.3243517 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:05:22
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 6.2914786 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:05:29
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 6.0509596 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:05:35
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 6.2562108 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:05:41
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 6.0866754 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:05:48
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 5.9959263 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:05:54
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 5.9911695 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:06:00
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 6.5024686 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:06:06
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 5.9512754 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:06:13
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 6.2902115 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:06:19
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 6.3993017 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:06:25
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 6.9445123 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:06:32
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 6.279573 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:06:39
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 6.1085787 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:06:45
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 6.2567835 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:06:51
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 6.1436138 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:06:58
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 6.071842 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:07:04
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 6.8548373 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:07:11
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 6.3819971 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:07:17
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 6.1227291 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:07:24
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 7.3453831 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:07:31
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 6.9059586 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:07:38
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 5.9036589 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:07:44
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 6.1576738 seconds.
+                    
+[2025-11-05 17:13:20] ERROR '/images/profile.png' not found.
+        LiveReload: Browser connected
+[2025-11-05 17:13:23] ERROR '/research/' not found.
+[2025-11-05 17:13:23] ERROR '/images/profile.png' not found.
+      Regenerating: 1 file(s) changed at 2025-11-05 17:13:37
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 5.315832 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:14:31
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 5.1537886 seconds.
+                    
+[2025-11-05 17:14:41] ERROR '/research/' not found.
+[2025-11-05 17:14:41] ERROR '/images/profile.png' not found.
+[2025-11-05 17:14:42] ERROR '/images/profile.png' not found.
+[2025-11-05 17:14:44] ERROR '/images/profile.png' not found.
+[2025-11-05 17:14:47] ERROR '/images/profile.png' not found.
+[2025-11-05 17:16:36] ERROR '/images/profile.png' not found.
+[2025-11-05 17:16:45] ERROR '/research/' not found.
+[2025-11-05 17:16:45] ERROR '/images/profile.png' not found.
+[2025-11-05 17:19:10] ERROR '/images/profile.png' not found.
+[2025-11-05 17:19:15] ERROR '/images/profile.png' not found.
+[2025-11-05 17:39:57] ERROR '/images/profile.png' not found.
+      Regenerating: 1 file(s) changed at 2025-11-05 17:41:38
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 6.7421136 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:41:45
+                    jekyll_local.log
+[2025-11-05 17:41:45] ERROR '/images/profile.png' not found.
+       Jekyll Feed: Generating feed for posts
+                    ...done in 4.3610329 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:41:49
+                    jekyll_local.log
+[2025-11-05 17:41:50] ERROR '/images/profile.png' not found.
+       Jekyll Feed: Generating feed for posts
+[2025-11-05 17:41:51] ERROR '/research/' not found.
+[2025-11-05 17:41:51] ERROR '/images/profile.png' not found.
+[2025-11-05 17:41:55] ERROR '/images/profile.png' not found.
+                    ...done in 6.2377581 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:41:56
+                    jekyll_local.log
+[2025-11-05 17:41:56] ERROR '/images/profile.png' not found.
+       Jekyll Feed: Generating feed for posts
+[2025-11-05 17:42:00] ERROR '/images/profile.png' not found.
+                    ...done in 6.1659889 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:42:02
+                    jekyll_local.log
+[2025-11-05 17:42:02] ERROR '/images/profile.png' not found.
+       Jekyll Feed: Generating feed for posts
+[2025-11-05 17:42:04] ERROR '/images/profile.png' not found.
+                    ...done in 6.2441239 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:42:08
+                    jekyll_local.log
+[2025-11-05 17:42:09] ERROR '/images/profile.png' not found.
+       Jekyll Feed: Generating feed for posts
+[2025-11-05 17:42:10] ERROR '/images/profile.png' not found.
+[2025-11-05 17:42:13] ERROR '/research/' not found.
+[2025-11-05 17:42:13] ERROR '/images/profile.png' not found.
+                    ...done in 6.9235185 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:42:15
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 6.345105 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:42:22
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 6.723146 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:42:29
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+[2025-11-05 17:42:30] ERROR '/research/' not found.
+[2025-11-05 17:42:30] ERROR '/images/profile.png' not found.
+                    ...done in 5.3791481 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:42:34
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 3.0209506 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:42:37
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 2.9604742 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:42:40
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 2.9325233 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:42:43
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 3.9842343 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:42:48
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 6.0914562 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:42:54
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 6.8586877 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:43:01
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 6.1458299 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:43:07
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 6.2786996 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:43:13
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+[2025-11-05 17:43:14] ERROR '/images/profile.png' not found.
+                    ...done in 6.7046583 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:43:20
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+[2025-11-05 17:43:21] ERROR '/images/profile.png' not found.
+                    ...done in 6.7846478 seconds.
+                    
+[2025-11-05 17:43:27] ERROR '/images/profile.png' not found.
+[2025-11-05 17:43:28] ERROR '/images/profile.png' not found.
+      Regenerating: 1 file(s) changed at 2025-11-05 17:44:18
+                    files/cv_dpolancon_11125 (4).pdf
+       Jekyll Feed: Generating feed for posts
+                    ...done in 6.5365021 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:44:25
+                    jekyll_local.log
+[2025-11-05 17:44:25] ERROR '/images/profile.png' not found.
+       Jekyll Feed: Generating feed for posts
+                    ...done in 5.8474521 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:44:31
+                    jekyll_local.log
+[2025-11-05 17:44:31] ERROR '/images/profile.png' not found.
+       Jekyll Feed: Generating feed for posts
+[31m  Liquid Exception: No such file or directory @ rb_file_s_stat - C:/web_site/dpolanco.github.io/files/cv_dpolancon_11125 (4).pdf in sitemap.xml[0m
+[33m             Error: No such file or directory @ rb_file_s_stat - C:/web_site/dpolanco.github.io/files/cv_dpolancon_11125 (4).pdf[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+      Regenerating: 2 file(s) changed at 2025-11-05 17:44:36
+                    files/CV_dpolancon_05112025.pdf
+                    files/cv_dpolancon_11125 (4).pdf
+       Jekyll Feed: Generating feed for posts
+                    ...done in 5.7626276 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:44:42
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+[2025-11-05 17:44:43] ERROR '/images/profile.png' not found.
+                    ...done in 3.1440185 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:44:46
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+[2025-11-05 17:44:46] ERROR '/images/profile.png' not found.
+                    ...done in 3.2472038 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:44:49
+                    jekyll_local.log
+[2025-11-05 17:44:49] ERROR '/images/profile.png' not found.
+       Jekyll Feed: Generating feed for posts
+                    ...done in 3.347582 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:44:52
+                    jekyll_local.log
+[2025-11-05 17:44:53] ERROR '/images/profile.png' not found.
+       Jekyll Feed: Generating feed for posts
+                    ...done in 5.6698944 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:44:58
+                    jekyll_local.log
+[2025-11-05 17:44:58] ERROR '/images/profile.png' not found.
+       Jekyll Feed: Generating feed for posts
+                    ...done in 3.5237838 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:45:02
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+[2025-11-05 17:45:02] ERROR '/images/profile.png' not found.
+                    ...done in 3.1793565 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:45:05
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+[2025-11-05 17:45:05] ERROR '/images/profile.png' not found.
+                    ...done in 2.9962227 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:45:08
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+[2025-11-05 17:45:09] ERROR '/images/profile.png' not found.
+                    ...done in 3.0490145 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:45:12
+                    jekyll_local.log
+[2025-11-05 17:45:12] ERROR '/images/profile.png' not found.
+       Jekyll Feed: Generating feed for posts
+                    ...done in 3.1188162 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:45:15
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+[2025-11-05 17:45:15] ERROR '/images/profile.png' not found.
+                    ...done in 3.1069478 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:45:18
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+[2025-11-05 17:45:18] ERROR '/images/profile.png' not found.
+                    ...done in 3.1202705 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:45:21
+                    jekyll_local.log
+[2025-11-05 17:45:22] ERROR '/images/profile.png' not found.
+       Jekyll Feed: Generating feed for posts
+                    ...done in 3.3931462 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:45:25
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+[2025-11-05 17:45:25] ERROR '/images/profile.png' not found.
+                    ...done in 3.2326373 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:45:28
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+[2025-11-05 17:45:28] ERROR '/images/profile.png' not found.
+                    ...done in 4.137005 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:45:32
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+[2025-11-05 17:45:33] ERROR '/images/profile.png' not found.
+                    ...done in 3.7483096 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:45:36
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+[2025-11-05 17:45:37] ERROR '/images/profile.png' not found.
+                    ...done in 3.366537 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:45:40
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+[2025-11-05 17:45:40] ERROR '/images/profile.png' not found.
+                    ...done in 4.704006 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:45:45
+                    jekyll_local.log
+[2025-11-05 17:45:45] ERROR '/images/profile.png' not found.
+       Jekyll Feed: Generating feed for posts
+                    ...done in 4.9352126 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:45:50
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+[2025-11-05 17:45:50] ERROR '/images/profile.png' not found.
+                    ...done in 3.3528928 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:45:53
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+[2025-11-05 17:45:53] ERROR '/images/profile.png' not found.
+                    ...done in 3.671632 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:45:57
+                    jekyll_local.log
+[2025-11-05 17:45:57] ERROR '/images/profile.png' not found.
+       Jekyll Feed: Generating feed for posts
+                    ...done in 5.0997501 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:46:02
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+[2025-11-05 17:46:03] ERROR '/images/profile.png' not found.
+                    ...done in 3.3600014 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:46:06
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+[2025-11-05 17:46:06] ERROR '/images/profile.png' not found.
+                    ...done in 5.0330388 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:46:11
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+[2025-11-05 17:46:11] ERROR '/images/profile.png' not found.
+                    ...done in 5.0515619 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:46:16
+                    jekyll_local.log
+[2025-11-05 17:46:17] ERROR '/images/profile.png' not found.
+       Jekyll Feed: Generating feed for posts
+                    ...done in 4.3814004 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:46:21
+                    jekyll_local.log
+[2025-11-05 17:46:21] ERROR '/images/profile.png' not found.
+       Jekyll Feed: Generating feed for posts
+                    ...done in 4.8983978 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:46:26
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+[2025-11-05 17:46:26] ERROR '/images/profile.png' not found.
+                    ...done in 3.0913824 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:46:29
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+[2025-11-05 17:46:29] ERROR '/images/profile.png' not found.
+                    ...done in 3.0914086 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:46:32
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+[2025-11-05 17:46:32] ERROR '/images/profile.png' not found.
+                    ...done in 4.4850541 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:46:37
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+[2025-11-05 17:46:37] ERROR '/images/profile.png' not found.
+                    ...done in 3.4050045 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:46:40
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+[2025-11-05 17:46:41] ERROR '/images/profile.png' not found.
+                    ...done in 3.2953674 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:46:44
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+[2025-11-05 17:46:44] ERROR '/images/profile.png' not found.
+                    ...done in 3.1606081 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:46:47
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+[2025-11-05 17:46:47] ERROR '/images/profile.png' not found.
+                    ...done in 3.3796323 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:46:50
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+[2025-11-05 17:46:51] ERROR '/images/profile.png' not found.
+                    ...done in 3.0612346 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:46:54
+                    jekyll_local.log
+[2025-11-05 17:46:54] ERROR '/images/profile.png' not found.
+       Jekyll Feed: Generating feed for posts
+                    ...done in 3.3401724 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:46:57
+                    jekyll_local.log
+[2025-11-05 17:46:57] ERROR '/images/profile.png' not found.
+       Jekyll Feed: Generating feed for posts
+[2025-11-05 17:47:01] ERROR '/images/profile.png' not found.
+                    ...done in 6.1636736 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:47:03
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+[2025-11-05 17:47:04] ERROR '/images/profile.png' not found.
+[2025-11-05 17:47:04] ERROR '/images/profile.png' not found.
+                    ...done in 6.2228541 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:47:10
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+[2025-11-05 17:47:10] ERROR '/images/profile.png' not found.
+[2025-11-05 17:47:10] ERROR '/images/profile.png' not found.
+                    ...done in 3.5208083 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:47:14
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+[2025-11-05 17:47:14] ERROR '/images/profile.png' not found.
+[2025-11-05 17:47:14] ERROR '/images/profile.png' not found.
+                    ...done in 3.1555764 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:47:17
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+[2025-11-05 17:47:17] ERROR '/images/profile.png' not found.
+[2025-11-05 17:47:17] ERROR '/images/profile.png' not found.
+                    ...done in 3.4153178 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:47:20
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+[2025-11-05 17:47:21] ERROR '/images/profile.png' not found.
+[2025-11-05 17:47:21] ERROR '/images/profile.png' not found.
+                    ...done in 3.1962262 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:47:24
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+[2025-11-05 17:47:24] ERROR Errno::ECONNABORTED: An established connection was aborted by the software in your host machine. @ io_fillbuf - fd:11 
+	C:/Ruby31-x64/lib/ruby/gems/3.1.0/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in `eof?'
+	C:/Ruby31-x64/lib/ruby/gems/3.1.0/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in `run'
+	C:/Ruby31-x64/lib/ruby/gems/3.1.0/gems/webrick-1.9.1/lib/webrick/server.rb:310:in `block in start_thread'
+[2025-11-05 17:47:24] ERROR '/images/profile.png' not found.
+[2025-11-05 17:47:24] ERROR '/images/profile.png' not found.
+                    ...done in 3.1854993 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:47:27
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+[2025-11-05 17:47:28] ERROR '/images/profile.png' not found.
+[2025-11-05 17:47:28] ERROR '/images/profile.png' not found.
+                    ...done in 3.2858247 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:47:31
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+[2025-11-05 17:47:31] ERROR '/images/profile.png' not found.
+[2025-11-05 17:47:31] ERROR '/images/profile.png' not found.
+                    ...done in 3.4415796 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:47:34
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+[2025-11-05 17:47:35] ERROR '/images/profile.png' not found.
+[2025-11-05 17:47:35] ERROR '/images/profile.png' not found.
+                    ...done in 3.4809904 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:47:38
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+[2025-11-05 17:47:38] ERROR '/images/profile.png' not found.
+[2025-11-05 17:47:38] ERROR '/images/profile.png' not found.
+                    ...done in 3.4021305 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:47:41
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+[2025-11-05 17:47:42] ERROR '/images/profile.png' not found.
+[2025-11-05 17:47:42] ERROR '/images/profile.png' not found.
+                    ...done in 3.7260525 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:47:45
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+[2025-11-05 17:47:46] ERROR '/images/profile.png' not found.
+[2025-11-05 17:47:46] ERROR '/images/profile.png' not found.
+                    ...done in 3.3557741 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:47:49
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+[2025-11-05 17:47:49] ERROR '/images/profile.png' not found.
+[2025-11-05 17:47:49] ERROR '/images/profile.png' not found.
+                    ...done in 3.4972918 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:47:52
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+[2025-11-05 17:47:53] ERROR '/images/profile.png' not found.
+[2025-11-05 17:47:53] ERROR '/images/profile.png' not found.
+                    ...done in 3.2464391 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:47:56
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+[2025-11-05 17:47:56] ERROR '/images/profile.png' not found.
+[2025-11-05 17:47:56] ERROR '/images/profile.png' not found.
+                    ...done in 3.3530429 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:47:59
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+[2025-11-05 17:47:59] ERROR Errno::ECONNABORTED: An established connection was aborted by the software in your host machine. @ io_fillbuf - fd:15 
+	C:/Ruby31-x64/lib/ruby/gems/3.1.0/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in `eof?'
+	C:/Ruby31-x64/lib/ruby/gems/3.1.0/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in `run'
+	C:/Ruby31-x64/lib/ruby/gems/3.1.0/gems/webrick-1.9.1/lib/webrick/server.rb:310:in `block in start_thread'
+[2025-11-05 17:48:00] ERROR '/images/profile.png' not found.
+[2025-11-05 17:48:00] ERROR '/images/profile.png' not found.
+                    ...done in 3.1757138 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:48:03
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+[2025-11-05 17:48:03] ERROR '/images/profile.png' not found.
+[2025-11-05 17:48:03] ERROR '/images/profile.png' not found.
+                    ...done in 3.6241202 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:48:06
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+[2025-11-05 17:48:07] ERROR '/images/profile.png' not found.
+[2025-11-05 17:48:07] ERROR '/images/profile.png' not found.
+                    ...done in 3.3186196 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:48:10
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+[2025-11-05 17:48:10] ERROR '/images/profile.png' not found.
+[2025-11-05 17:48:10] ERROR '/images/profile.png' not found.
+                    ...done in 3.2976341 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:48:13
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+[2025-11-05 17:48:14] ERROR '/images/profile.png' not found.
+[2025-11-05 17:48:14] ERROR '/images/profile.png' not found.
+                    ...done in 3.390604 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:48:17
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+[2025-11-05 17:48:17] ERROR '/images/profile.png' not found.
+[2025-11-05 17:48:17] ERROR '/images/profile.png' not found.
+                    ...done in 3.2111065 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:48:20
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+[2025-11-05 17:48:21] ERROR '/images/profile.png' not found.
+[2025-11-05 17:48:21] ERROR '/images/profile.png' not found.
+                    ...done in 3.2534731 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:48:24
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+[2025-11-05 17:48:24] ERROR Errno::ECONNABORTED: An established connection was aborted by the software in your host machine. @ io_fillbuf - fd:12 
+	C:/Ruby31-x64/lib/ruby/gems/3.1.0/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in `eof?'
+	C:/Ruby31-x64/lib/ruby/gems/3.1.0/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in `run'
+	C:/Ruby31-x64/lib/ruby/gems/3.1.0/gems/webrick-1.9.1/lib/webrick/server.rb:310:in `block in start_thread'
+[2025-11-05 17:48:24] ERROR '/images/profile.png' not found.
+[2025-11-05 17:48:24] ERROR '/images/profile.png' not found.
+                    ...done in 3.1511639 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:48:27
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+[2025-11-05 17:48:27] ERROR '/images/profile.png' not found.
+[2025-11-05 17:48:27] ERROR '/images/profile.png' not found.
+                    ...done in 3.2907656 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:48:30
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+[2025-11-05 17:48:31] ERROR '/images/profile.png' not found.
+[2025-11-05 17:48:31] ERROR '/images/profile.png' not found.
+                    ...done in 3.4049593 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:48:34
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+[2025-11-05 17:48:34] ERROR '/images/profile.png' not found.
+[2025-11-05 17:48:34] ERROR '/images/profile.png' not found.
+                    ...done in 3.8452792 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:48:38
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+[2025-11-05 17:48:38] ERROR '/images/profile.png' not found.
+[2025-11-05 17:48:39] ERROR '/images/profile.png' not found.
+                    ...done in 4.0403119 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:48:42
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+[2025-11-05 17:48:42] ERROR Errno::ECONNABORTED: An established connection was aborted by the software in your host machine. @ io_fillbuf - fd:14 
+	C:/Ruby31-x64/lib/ruby/gems/3.1.0/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in `eof?'
+	C:/Ruby31-x64/lib/ruby/gems/3.1.0/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in `run'
+	C:/Ruby31-x64/lib/ruby/gems/3.1.0/gems/webrick-1.9.1/lib/webrick/server.rb:310:in `block in start_thread'
+[2025-11-05 17:48:43] ERROR '/images/profile.png' not found.
+[2025-11-05 17:48:43] ERROR '/images/profile.png' not found.
+                    ...done in 3.8290122 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:48:46
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+[2025-11-05 17:48:47] ERROR '/images/profile.png' not found.
+[2025-11-05 17:48:47] ERROR '/images/profile.png' not found.
+                    ...done in 4.7356028 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:48:51
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+[2025-11-05 17:48:52] ERROR '/images/profile.png' not found.
+[2025-11-05 17:48:52] ERROR '/images/profile.png' not found.
+                    ...done in 3.9922828 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:48:55
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+[2025-11-05 17:48:55] ERROR '/images/profile.png' not found.
+[2025-11-05 17:48:56] ERROR '/images/profile.png' not found.
+                    ...done in 3.47479 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:48:59
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+[2025-11-05 17:48:59] ERROR '/images/profile.png' not found.
+[2025-11-05 17:48:59] ERROR '/images/profile.png' not found.
+                    ...done in 3.5857246 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:49:02
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+[2025-11-05 17:49:03] ERROR '/images/profile.png' not found.
+[2025-11-05 17:49:03] ERROR '/images/profile.png' not found.
+                    ...done in 3.3448259 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:49:06
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+[2025-11-05 17:49:06] ERROR '/images/profile.png' not found.
+[2025-11-05 17:49:06] ERROR '/images/profile.png' not found.
+                    ...done in 3.315547 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:49:09
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+[2025-11-05 17:49:10] ERROR '/images/profile.png' not found.
+[2025-11-05 17:49:10] ERROR '/images/profile.png' not found.
+                    ...done in 3.4776177 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:49:13
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+[2025-11-05 17:49:13] ERROR '/images/profile.png' not found.
+[2025-11-05 17:49:13] ERROR '/images/profile.png' not found.
+                    ...done in 4.0533184 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:49:17
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+[2025-11-05 17:49:18] ERROR '/images/profile.png' not found.
+[2025-11-05 17:49:18] ERROR '/images/profile.png' not found.
+                    ...done in 3.6253994 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:49:21
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+[2025-11-05 17:49:21] ERROR '/images/profile.png' not found.
+[2025-11-05 17:49:21] ERROR '/images/profile.png' not found.
+                    ...done in 3.5467759 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:49:24
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+[2025-11-05 17:49:25] ERROR '/images/profile.png' not found.
+[2025-11-05 17:49:25] ERROR '/images/profile.png' not found.
+                    ...done in 3.4228572 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:49:28
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+[2025-11-05 17:49:29] ERROR '/images/profile.png' not found.
+[2025-11-05 17:49:29] ERROR '/images/profile.png' not found.
+                    ...done in 3.5375272 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:49:32
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+[2025-11-05 17:49:32] ERROR Errno::ECONNABORTED: An established connection was aborted by the software in your host machine. @ io_fillbuf - fd:10 
+	C:/Ruby31-x64/lib/ruby/gems/3.1.0/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in `eof?'
+	C:/Ruby31-x64/lib/ruby/gems/3.1.0/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in `run'
+	C:/Ruby31-x64/lib/ruby/gems/3.1.0/gems/webrick-1.9.1/lib/webrick/server.rb:310:in `block in start_thread'
+[2025-11-05 17:49:32] ERROR '/images/profile.png' not found.
+[2025-11-05 17:49:32] ERROR '/images/profile.png' not found.
+                    ...done in 3.3233348 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:49:35
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+[2025-11-05 17:49:36] ERROR '/images/profile.png' not found.
+[2025-11-05 17:49:36] ERROR '/images/profile.png' not found.
+                    ...done in 3.6031876 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:49:39
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+[2025-11-05 17:49:39] ERROR '/images/profile.png' not found.
+[2025-11-05 17:49:39] ERROR '/images/profile.png' not found.
+                    ...done in 3.4619758 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 17:49:43
+                    jekyll_local.log
+       Jekyll Feed: Generating feed for posts
+[2025-11-05 17:49:43] ERROR '/images/profile.png' not found.
+[2025-11-05 17:49:43] ERROR '/images/profile.png' not found.
+                    ...done in 3.6026432 seconds.
+                    
+[2025-11-05 17:49:47] ERROR Errno::ECONNABORTED: An established connection was aborted by the software in your host machine. @ io_fillbuf - fd:12 
+	C:/Ruby31-x64/lib/ruby/gems/3.1.0/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in `eof?'
+	C:/Ruby31-x64/lib/ruby/gems/3.1.0/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in `run'
+	C:/Ruby31-x64/lib/ruby/gems/3.1.0/gems/webrick-1.9.1/lib/webrick/server.rb:310:in `block in start_thread'
+[2025-11-05 17:49:47] ERROR '/images/profile.png' not found.
+[2025-11-05 17:49:47] ERROR '/images/profile.png' not found.
+      Regenerating: 1 file(s) changed at 2025-11-06 00:40:43
+                    _pages/about.md
+       Jekyll Feed: Generating feed for posts

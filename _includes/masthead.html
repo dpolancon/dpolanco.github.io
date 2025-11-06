@@ -1,5 +1,11 @@
 {% include base_path %}
 
+{% assign current_lang = page.lang | default: 'en' %}
+{% assign nav_links = site.data.navigation.main %}
+{% if current_lang == 'es' and site.data.navigation.main_es %}
+  {% assign nav_links = site.data.navigation.main_es %}
+{% endif %}
+
 <div class="masthead">
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
@@ -7,7 +13,7 @@
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
           <li class="masthead__menu-item masthead__menu-item--lg persist"><a href="{{ base_path }}/">{{ site.title }}</a></li>
-          {% for link in site.data.navigation.main %}
+          {% for link in nav_links %}
             {% if link.url contains 'http' %}
               {% assign domain = '' %}
             {% else %}
@@ -15,6 +21,25 @@
             {% endif %}
             <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
           {% endfor %}
+          {% assign lang_toggle_label = page.lang_toggle_label %}
+          {% assign lang_toggle_url = page.lang_toggle_url %}
+          {% if current_lang == 'es' %}
+            {% assign lang_toggle_label = lang_toggle_label | default: 'EN' %}
+            {% assign lang_toggle_url = lang_toggle_url | default: '/' %}
+          {% else %}
+            {% assign lang_toggle_label = lang_toggle_label | default: 'ESP' %}
+            {% assign lang_toggle_url = lang_toggle_url | default: '/about_es/' %}
+          {% endif %}
+          {% if lang_toggle_url %}
+            {% if lang_toggle_url contains 'http' %}
+              {% assign lang_domain = '' %}
+            {% else %}
+              {% assign lang_domain = base_path %}
+            {% endif %}
+            <li class="masthead__menu-item persist">
+              <a class="lang-toggle" href="{{ lang_domain }}{{ lang_toggle_url }}">{{ lang_toggle_label }}</a>
+            </li>
+          {% endif %}
           <li id="theme-toggle" class="masthead__menu-item persist tail">
             <a role="button" aria-labelledby="theme-icon"><i id="theme-icon" class="fa-solid fa-sun" aria-hidden="true" title="toggle theme"></i></a>
           </li>

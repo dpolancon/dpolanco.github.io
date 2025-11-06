@@ -30,19 +30,100 @@ layout: default
           {% if page.read_time %}
             <p class="page__meta"><i class="fa fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
           {% endif %}
-        {% if page.modified %}
-          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i>Date:</strong> <time datetime="{{ page.modified | date: "%Y-%m-%d" }}">{{ page.modified | date: "%B %d, %Y" }}</time></p>
-        {% elsif page.date %}
-          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i>Date:</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time></p>
-        {% endif %}
-        {% if page.talk_type %}<p>{{page.talk_type}} at {{ page.venue }},  {{page.location}} {% endif %}
-
+          {% if page.modified %}
+            <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i>Date:</strong>
+              <time datetime="{{ page.modified | date: "%Y-%m-%d" }}">{{ page.modified | date: "%B %d, %Y" }}</time></p>
+          {% elsif page.date %}
+            <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i>Date:</strong>
+              <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time></p>
+          {% endif %}
+          {% if page.type %}<p>{{ page.type }} at {{ page.venue }}, {{ page.location }}</p>{% endif %}
         </header>
       {% endunless %}
 
       <section class="page__content" itemprop="text">
         {{ content }}
-        {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
+
+        {%- comment -%} ---------- Materials / Slides ---------- {%- endcomment -%}
+        {% if page.many_slides or page.slides or page.materials %}
+          <h3 id="materials">Materials</h3>
+
+          {% if page.many_slides %}
+            <ul class="archive__item-extras">
+              {% for s in page.many_slides %}
+                <li><a class="btn" href="{{ s.url }}">{{ s.label }}</a></li>
+              {% endfor %}
+            </ul>
+          {% endif %}
+
+          {% if page.slides and page.many_slides == nil %}
+            <p><a class="btn" href="{{ page.slides }}">Slides</a></p>
+          {% endif %}
+
+          {% if page.materials %}
+            <ul class="archive__item-extras">
+              {% for m in page.materials %}
+                <li><a class="btn" href="{{ m.url }}">{{ m.label }}</a></li>
+              {% endfor %}
+            </ul>
+          {% endif %}
+        {% endif %}
+
+        {%- comment -%} ---------- Video (auto-embed YouTube) ---------- {%- endcomment -%}
+        {% if page.video %}
+          {% assign url = page.video | strip %}
+          {% assign first_char = url | slice: 0, 1 %}
+
+          {% unless first_char == "#" %}
+            <hr>
+            <h3 id="watch">Watch</h3>
+
+            {% if url contains "youtu" %}
+              {%- comment -%}
+              Normalize YouTube IDs from:
+              - youtu.be/ID
+              - youtube.com/watch?v=ID&...
+              - m.youtube.com/watch?v=ID
+              - youtube.com/shorts/ID
+              - youtube.com/embed/ID
+              - youtube.com/live/ID
+              {%- endcomment -%}
+              {% assign vid = url
+                | replace: "https://youtu.be/", ""
+                | replace: "http://youtu.be/", ""
+                | replace: "https://www.youtube.com/watch?v=", ""
+                | replace: "http://www.youtube.com/watch?v=", ""
+                | replace: "https://m.youtube.com/watch?v=", ""
+                | replace: "https://www.youtube.com/shorts/", ""
+                | replace: "https://www.youtube.com/embed/", ""
+                | replace: "https://www.youtube.com/live/", ""
+                | replace: "www.youtube.com/watch?v=", ""
+                | split: "?" | first
+                | split: "&" | first
+                | split: "/" | last %}
+
+              <div class="video-container">
+                <iframe
+                  src="https://www.youtube.com/embed/{{ vid | escape }}"
+                  title="YouTube video player" frameborder="0"
+                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                  allowfullscreen></iframe>
+              </div>
+            {% else %}
+              <div class="video-container">
+                <iframe
+                  src="{{ url | escape }}"
+                  title="Video player" frameborder="0"
+                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                  allowfullscreen></iframe>
+              </div>
+            {% endif %}
+          {% endunless %}
+        {% endif %}
+
+        {% if page.link %}
+          <div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>
+        {% endif %}
       </section>
 
       <footer class="page__meta">
@@ -62,7 +143,6 @@ layout: default
     {% endif %}
   </article>
 
-  {% comment %}<!-- only show related on a post page when not disabled -->{% endcomment %}
   {% if page.id and page.related and site.related_posts.size > 0 %}
     <div class="page__related">
       {% if site.data.ui-text[site.locale].related_label %}
@@ -76,3 +156,10 @@ layout: default
     </div>
   {% endif %}
 </div>
+
+<style>
+.video-container{position:relative;padding-bottom:56.25%;height:0;overflow:hidden}
+.video-container iframe{position:absolute;top:0;left:0;width:100%;height:100%}
+.archive__item-extras{list-style:none;padding-left:0}
+.archive__item-extras li{margin:0.25rem 0}
+</style>

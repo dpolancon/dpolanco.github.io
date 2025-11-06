@@ -1,0 +1,1004 @@
+Configuration file: C:/web_site/dpolanco.github.io/_config.yml
+To use retry middleware with Faraday v2.0+, install `faraday-retry` gem
+            Source: C:/web_site/dpolanco.github.io
+       Destination: C:/web_site/dpolanco.github.io/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+       Jekyll Feed: Generating feed for posts
+                    done in 37.562 seconds.
+ Auto-regeneration: enabled for 'C:/web_site/dpolanco.github.io'
+LiveReload address: http://0.0.0.0:35729
+    Server address: http://0.0.0.0:4000/
+  Server running... press ctrl-c to stop.
+[2025-11-05 03:19:23] ERROR Errno::ECONNRESET: An existing connection was forcibly closed by the remote host. @ io_fillbuf - fd:8 
+	C:/Ruby31-x64/lib/ruby/gems/3.1.0/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in `eof?'
+	C:/Ruby31-x64/lib/ruby/gems/3.1.0/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in `run'
+	C:/Ruby31-x64/lib/ruby/gems/3.1.0/gems/webrick-1.9.1/lib/webrick/server.rb:310:in `block in start_thread'
+[2025-11-05 03:19:30] ERROR Errno::ECONNRESET: An existing connection was forcibly closed by the remote host. @ io_fillbuf - fd:8 
+	C:/Ruby31-x64/lib/ruby/gems/3.1.0/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in `eof?'
+	C:/Ruby31-x64/lib/ruby/gems/3.1.0/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in `run'
+	C:/Ruby31-x64/lib/ruby/gems/3.1.0/gems/webrick-1.9.1/lib/webrick/server.rb:310:in `block in start_thread'
+      Regenerating: 1 file(s) changed at 2025-11-05 03:19:47
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 21.9523684 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:20:09
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 29.0538239 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:20:38
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 11.9762233 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:20:50
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 20.5359312 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:21:11
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 15.0400166 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:21:26
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 14.418122 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:21:41
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 14.4787088 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:21:55
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 12.2435851 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:22:08
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 11.9508882 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:22:20
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 14.8584091 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:22:35
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 15.1032101 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:22:50
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 13.9446281 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:23:04
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 13.0712157 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:23:17
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 13.7992257 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:23:31
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 13.3256532 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:23:45
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 14.5270669 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:23:59
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 11.4479876 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:24:11
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 14.048716 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:24:25
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 12.4009346 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:24:37
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 14.1470469 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:24:52
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 16.4161675 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:25:08
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 12.4027465 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:25:21
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 12.681637 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:25:34
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 10.4459223 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:25:44
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 11.1976435 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:25:55
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 14.1107703 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:26:10
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 13.8919977 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:26:24
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 13.8904797 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:26:38
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 12.6274975 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:26:50
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 10.6058048 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:27:01
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 12.9111155 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:27:14
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 11.6248376 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:27:26
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 11.533007 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:27:37
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 10.374905 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:27:48
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 11.0268887 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:27:59
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 11.1122518 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:28:10
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 12.7240816 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:28:23
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 10.7936912 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:28:34
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 11.7778927 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:28:46
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 10.6696212 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:28:57
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 12.5356561 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:29:09
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 10.6555546 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:29:20
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 12.2723756 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:29:33
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 10.564868 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:29:43
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 10.3493352 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:29:54
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 10.6862062 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:30:04
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 10.4258258 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:30:15
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 10.7130403 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:30:26
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 11.6508459 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:30:38
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 9.9961349 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:30:48
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 10.1824707 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:30:58
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 12.65933 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:31:11
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 11.1978021 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:31:22
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 10.3320371 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:31:33
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 13.0068215 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:31:46
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 10.297832 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:31:56
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 10.4486443 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:32:07
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 10.4133902 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:32:17
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 10.2494242 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:32:28
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 9.8897404 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:32:38
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 11.9206275 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:32:50
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 9.8401086 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:33:00
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 10.2847002 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:33:10
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 11.0491001 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:33:21
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 10.5663544 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:33:32
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 10.1809905 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:33:42
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 11.8415418 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:33:54
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 10.5549237 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:34:05
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 10.543097 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:34:15
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 10.196164 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:34:26
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 10.3178033 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:34:36
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 9.8319728 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:34:46
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 11.4329367 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:34:58
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 11.2935868 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:35:09
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 10.6714241 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:35:20
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 10.0199963 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:35:30
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 10.6940751 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:35:41
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 10.5967284 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:35:51
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 10.1082928 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:36:02
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 11.274975 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:36:13
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 11.6731138 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:36:25
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 12.2732599 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:36:37
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 10.357578 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:36:48
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 13.2632594 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:37:01
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 13.9081313 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:37:15
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 13.3633012 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:37:29
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 12.0974216 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:37:41
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 12.4733169 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:37:53
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 12.1780234 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:38:06
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 12.1325734 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:38:18
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 11.7091655 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:38:30
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 11.8946597 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:38:42
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 13.825008 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:38:56
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 12.9533018 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:39:09
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 11.674038 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:39:20
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 13.8034497 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:39:34
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 10.3176755 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:39:45
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 9.9745864 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:39:55
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 11.9717249 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:40:07
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 10.7208837 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:40:18
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 10.0786145 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:40:28
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 13.95244 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:40:42
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 15.0914443 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:40:57
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 14.5732374 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:41:12
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 12.7746017 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:41:25
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 11.8715507 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:41:37
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 12.3057718 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:41:49
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 10.4853415 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:42:00
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 10.149386 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:42:10
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 10.2210067 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:42:20
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 10.2079636 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:42:31
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 10.5018338 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:42:41
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 11.0789932 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:42:53
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 9.8564739 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:43:03
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 10.7387713 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:43:13
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 10.3890022 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:43:24
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 9.8610159 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:43:34
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 10.1671552 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:43:44
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 11.3312888 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:43:56
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 10.349179 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:44:06
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 10.2892611 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:44:16
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 9.4038286 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:44:26
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 10.6949003 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:44:37
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 9.9355072 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:44:47
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 10.7363263 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:44:58
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 10.6439765 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:45:08
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 9.4356268 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:45:18
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 9.175547 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:45:27
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 9.9457752 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:45:37
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 9.830686 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:45:47
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 9.7483062 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:45:57
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 11.7643204 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:46:09
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 11.5529876 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:46:21
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 10.566271 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:46:31
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 10.9203313 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:46:42
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 10.7746428 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:46:53
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 9.7333044 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:47:03
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 11.4979113 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:47:15
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 9.6936136 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:47:24
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 12.4013888 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:47:37
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 11.6720057 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:47:49
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 10.3408813 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:47:59
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 11.5388314 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:48:11
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 12.6139499 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:48:24
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 10.0393498 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:48:34
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 9.9552354 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:48:44
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 9.9820261 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:48:54
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 9.6353314 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:49:04
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 9.5237617 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:49:13
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 10.6568417 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:49:24
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 9.3737387 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:49:34
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 9.865902 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:49:44
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 10.0868138 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:49:54
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 9.2507629 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:50:03
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 9.5418919 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:50:13
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 9.7978449 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:50:23
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 10.9233913 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:50:34
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 9.9546011 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:50:44
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 10.1981339 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:50:54
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 10.1623213 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:51:04
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 9.4004142 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:51:14
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 9.7455162 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:51:24
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 11.4699234 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:51:35
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 11.7795173 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:51:47
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 10.5447776 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:51:58
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 9.721876 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:52:08
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 10.1156264 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:52:18
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 9.4598402 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:52:27
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 9.7117136 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:52:37
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 11.5508891 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:52:49
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 9.9001404 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:52:59
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 9.8849277 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:53:09
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 9.8633483 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:53:19
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 9.7600487 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:53:29
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 9.6042627 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:53:39
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 11.0875437 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:53:50
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 9.7082471 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:54:00
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 9.823782 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:54:09
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 9.6672858 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:54:19
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 9.4697193 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:54:29
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 9.4790446 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:54:38
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 10.0939553 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:54:49
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 10.6921759 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:54:59
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 9.5246379 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:55:09
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 10.06629 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:55:19
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 10.5586134 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:55:30
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 11.092075 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:55:41
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 9.7182826 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:55:51
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 11.1534847 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:56:02
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 9.2370016 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:56:12
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 9.6209439 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:56:21
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 9.3012902 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:56:31
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 9.6582384 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:56:40
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 12.0121593 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:56:53
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 10.8367021 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:57:04
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+                    ...done in 9.1646164 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-11-05 03:57:13
+                    jekyll_server.log
+       Jekyll Feed: Generating feed for posts
+^C^C
