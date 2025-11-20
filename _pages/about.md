@@ -36,7 +36,7 @@ Overall, the dissertation advances a **comparative-relational approach** to stud
 **Demand and Accumulation in Long-Run Capitalist Development: Unbalanced Growth and Crisis**  
 - Develops a formal model of capitalist accumulation under persistent technological imbalance, integrating classical and post-Keynesian traditions to show how the feedback of accumulation into capacity creation determines long-run dynamic stability.  
 - Identifies crisis as an endogenous regime outcome, demonstrating how persistent unbalanced growth and accumulation–demand dynamics generate distinct domains of instability, distinguishing stagnation, partial crisis, and regime crisis.  
-- [Link to draft version](https://drive.google.com/file/d/11r5-6VNUzZ5Qftlokly3hdZKH9-fTWrm/view)
+- [Link to draft version]("/files/JMP_DemandAccumulationLR.pdf")
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XuUpszL6arI?si=KLRdmDkYXADtcJom" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
